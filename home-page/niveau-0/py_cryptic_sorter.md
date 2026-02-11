@@ -1,8 +1,7 @@
 # py\_cryptic\_sorter
 
-{% hint style="danger" %}
-Sujet buggé, conflit entre un exemple du sujet et celui de la moulinette, suivre la moulinette dans ce cas !
-{% endhint %}
+> [!CAUTION]
+> Sujet buggé, conflit entre un exemple du sujet et celui de la moulinette, suivre la moulinette dans ce cas !
 
 Le but de cet exercice est d'écrire une fonction qui trie une chaine de charactères selon 3 critères :
 

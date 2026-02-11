@@ -27,9 +27,9 @@ python3 py_bracket_validator.py "{Hello}[World](!)"
 True
 ```
 
-{% hint style="info" %}
-Dans les exemples d'exécutions ci-dessus je mets le paramètre de la fonction en argument mais il n'est pas demandé de faire ça pour l'examen.
-{% endhint %}
+> [!NOTE]
+> Dans les exemples d'exécutions ci-dessus je mets le paramètre de la fonction en argument mais il n'est pas demandé de faire ça pour l'examen.
+
 
 ***
 
