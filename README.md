@@ -1,6 +1,7 @@
 ---
 layout: default
-description: Inspiré par saeby et lfabbian
+title: Accueil
+permalink: /
 ---
 
 # Home Page
