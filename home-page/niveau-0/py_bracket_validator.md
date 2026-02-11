@@ -39,7 +39,6 @@ True
 
 <summary>py_bracket_validator</summary>
 
-{% code title="py_bracket_validator.py" lineNumbers="true" fullWidth="false" %}
 ```python
 def bracket_validator(s: str) -> bool:
 	brackets = []
@@ -52,6 +51,5 @@ def bracket_validator(s: str) -> bool:
 				return False
 	return len(brackets) == 0
 ```
-{% endcode %}
 
 </details>
