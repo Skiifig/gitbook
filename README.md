@@ -10,9 +10,9 @@ description: Inspiré par saeby et lfabbian
 La liste n'est pas exhaustive, les sujets peuvent manquer de précision et il est possible que le nom des fonctions ou des sujets ne soit pas exacts.
 {% endhint %}
 
-{% hint style="info" %}
-L'examen est entièrement en python !
-{% endhint %}
+> [!NOTE]
+> L'examen est entièrement en python !
+
 
 {% content-ref url="home-page/niveau-0/" %}
 [niveau-0](home-page/niveau-0/)
