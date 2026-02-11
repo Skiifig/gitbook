@@ -1,0 +1,5 @@
+title: Mon Premier GitBook
+baseurl: "/gitbook"
+url: "https://skiifig.github.io"
+markdown: kramdown
+theme: jekyll-theme-primer
