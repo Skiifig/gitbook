@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Home Page](README.md)
+  * [Niveau 0](home-page/niveau-0/README.md)
+    * [py\_bracket\_validator](home-page/niveau-0/py_bracket_validator.md)
+    * [py\_cryptic\_sorter](home-page/niveau-0/py_cryptic_sorter.md)
+  * [Niveau 1](home-page/niveau-1/README.md)
+    * [py\_palindrome\_validator](home-page/niveau-1/py_palindrome_validator.md)
+    * [py\_string\_compressor](home-page/niveau-1/py_string_compressor.md)
+  * [Niveau 2](home-page/niveau-2/README.md)
+    * [py\_mirror\_matrix](home-page/niveau-2/py_mirror_matrix.md)
+    * [Page 1](home-page/niveau-2/page-1.md)
+  * [Niveau 3](home-page/niveau-3.md)
+  * [Niveau 4](home-page/niveau-4.md)
+  * [Niveau 5](home-page/niveau-5.md)
+  * [Niveau 6](home-page/niveau-6.md)
