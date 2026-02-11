@@ -12,11 +12,6 @@ description: Inspiré par saeby et lfabbian
 > [!NOTE]
 > L'examen est entièrement en python !
 
-
-{% content-ref url="home-page/niveau-0/" %}
 [niveau-0](home-page/niveau-0/)
-{% endcontent-ref %}
 
-{% content-ref url="home-page/niveau-1/" %}
 [niveau-1](home-page/niveau-1/)
-{% endcontent-ref %}
